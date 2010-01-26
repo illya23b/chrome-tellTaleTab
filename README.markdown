@@ -4,6 +4,7 @@ Simplified notification extension for a small but growing number of sites. Inspi
 ### Currently Supported Sites
 * Gmail
 * Google Reader
+* Google Voice
 * Google Wave
 * Netvibes
 * Facebook
@@ -11,11 +12,13 @@ Simplified notification extension for a small but growing number of sites. Inspi
 
 ### TODO
 * Google Calendar
-* Google Voice
 * Meebo
 * MySpace
 
 ### Changelog
+* `1.0.1 - 01/25/2009`
+    Added Google Voice support.
+
 * `1.0.0 - 01/03/2009`  
     Added Facebook and Twitter support.
 
