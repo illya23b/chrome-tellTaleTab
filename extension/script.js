@@ -308,9 +308,6 @@ var favicon = {
     },
 
     update: function(text) {
-        if (text == this.previousText)
-            return;
-
         this.previousText = text;
         iconURL = this.getIcon(text);
 
